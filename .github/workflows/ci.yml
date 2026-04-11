@@ -4,7 +4,7 @@ name: Code Quality Check
 # 2. The Trigger: When should this run?
 on:
   pull_request:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 # 3. The Jobs: What should the robot do?
 jobs:
